@@ -10,10 +10,10 @@ Repositório de exemplo para a aula de Ti
 
 ### aprendendo GIT & Github
 
-´´´javascript
+```javascript
 
 let nome = "Aeronauta Barata";
 
 console.log("O nome é " + nome);
 
-´´´
+```
